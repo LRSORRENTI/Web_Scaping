@@ -39,16 +39,17 @@
 - [Smartproxy:](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1FrYVhvWGRKenRIU0JFX2lqTENSZjJwZXpod3xBQ3Jtc0tuM2IxN05peHRxUUtmN3VHMGRkVWpQeU4ySk5UREEwWnpkdzRWaHVJWWdNUklXbFFGaDhsaVRMVGtYVF9ac3lnaE1kcU9abFNfUlZYRHdtVXpQZ2tKTXJ1TVZhWHk5ZV9oRU5RekFLZzlXR21hTXM4RQ&q=https%3A%2F%2Fsmartproxy.com%2Fdeals%2Fproxyservers%2Fips&v=mBoX_JCKZTE)
 
 **⭐️ Contents ⭐️**
-⌨️ (0:00:00) Part 1 - Scrapy & Course Introduction
-⌨️ (0:08:22) Part 2 - Setup Virtual Env & Scrapy
-⌨️ (0:16:28) Part 3 - Creating a Scrapy Project
-⌨️ (0:28:17) Part 4 - Build your First Scrapy Spider
-⌨️ (0:55:09) Part 5 - Build Discovery & Extraction Spider
-⌨️ (1:20:11) Part 6 - Cleaning Data with Item Pipelines
-⌨️ (1:44:19) Part 7 - Saving Data to Files & Databases
-⌨️ (2:04:33) Part 8 - Fake User-Agents & Browser Headers
-⌨️ (2:40:12) Part 9 - Rotating Proxies & Proxy APIs
-⌨️ (3:18:12) Part 10 - Run Spiders in Cloud with Scrapyd
-⌨️ (4:03:46) Part 11 - Run Spiders in Cloud with ScrapeOps
-⌨️ (4:20:04) Part 12 - Run Spiders in Cloud with Scrapy Cloud
-⌨️ (4:30:36) Part 13 - Conclusion & Next Steps
+
+- ⌨️ (0:00:00) Part 1 - Scrapy & Course Introduction
+- ⌨️ (0:08:22) Part 2 - Setup Virtual Env & Scrapy
+- ⌨️ (0:16:28) Part 3 - Creating a Scrapy Project
+- ⌨️ (0:28:17) Part 4 - Build your First Scrapy Spider
+- ⌨️ (0:55:09) Part 5 - Build Discovery & Extraction Spider
+- ⌨️ (1:20:11) Part 6 - Cleaning Data with Item Pipelines
+- ⌨️ (1:44:19) Part 7 - Saving Data to Files & Databases
+- ⌨️ (2:04:33) Part 8 - Fake User-Agents & Browser Headers
+- ⌨️ (2:40:12) Part 9 - Rotating Proxies & Proxy APIs
+- ⌨️ (3:18:12) Part 10 - Run Spiders in Cloud with Scrapyd
+- ⌨️ (4:03:46) Part 11 - Run Spiders in Cloud with ScrapeOps
+- ⌨️ (4:20:04) Part 12 - Run Spiders in Cloud with Scrapy Cloud
+- ⌨️ (4:30:36) Part 13 - Conclusion & Next Steps
